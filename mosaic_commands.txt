@@ -1,1 +1,1 @@
-python Mosaic_Creator.py --target plates/1-99/plate-73-wood-thrush.jpg --images inaturalist/wood-thrush --grid 100 100 --output /Users/estene/Documents/GitHub/audubon/mosaics/wood-thrush.jpeg
+python Mosaic_Creator.py --target plates/100-199/plate-102-blue-jay.jpg --images inaturalist/blue-jay --grid 100 100 --output mosaics/blue-jay.jpeg
