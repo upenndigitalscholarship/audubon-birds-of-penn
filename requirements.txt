@@ -1,0 +1,17 @@
+pandas
+os
+subprocess
+PIL  
+PIL
+pydub
+random
+numpy
+datetime
+re
+glob
+shutil 
+requests
+json
+csv
+urllib
+pydub
