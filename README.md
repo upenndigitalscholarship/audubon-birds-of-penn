@@ -6,6 +6,12 @@ In this session, come test emerging technologies and digital methods to enhance 
 
 This workshop was hosted as part of [Earth Week Data Jam](https://www.library.upenn.edu/about/exhibits-events/earth-week-data-jam), a week of working and playing with enviornmental data with the Center for Research Data and Digital Scholarship (RDDS) at Penn Libraries.  
 
+To try for one bird:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/upenndigitalscholarship/audubon-birds-of-penn/HEAD?labpath=Aububon%20in%20Action%20-%20Single.ipynb)
+
+To try for a selection of birds:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/upenndigitalscholarship/audubon-birds-of-penn/HEAD?labpath=Audubon%20in%20Action%20-%20All.ipynb)
+
 ## Process
 Plate images from Audubon's *Birds of America* were downloaded from Nathan Buchar's GitHub repository, compiled from the [Audubon Foundation](https://www.audubon.org/birds-of-america). Observation data was exported from the [Birds of Philadelphia](https://www.inaturalist.org/projects/birds-of-philadelphia) project on iNaturalist, filtered for only those observations posted with a license. 
 
