@@ -6,5 +6,5 @@ numpy
 datetime
 requests
 python-csv
-urllib
+urllib3
 IPython
