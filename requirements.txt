@@ -4,11 +4,10 @@ pillow
 pydub
 numpy
 datetime
-re
 glob
 shutil 
 requests
 json
-csv
+python-csv
 urllib
 IPython
