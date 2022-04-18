@@ -1,6 +1,6 @@
 pandas
 subprocess.run
-PIL  
+pillow
 pydub
 random
 numpy
@@ -12,5 +12,4 @@ requests
 json
 csv
 urllib
-pydub
 IPython
