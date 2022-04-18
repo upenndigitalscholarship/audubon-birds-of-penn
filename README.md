@@ -2,7 +2,7 @@
 
 ## Intro 
 
-In this session, come test emerging technologies and digital methods to enhance the impact of the Penn's collections. Experiment with the latest project, Birds of Philadelphia, which uses high-resolution images of Audubon's plates from The Birds of America alongside crowdsourced observation data to consider the depiction of wildlife data through visual, aural, and interactive components. Participants will find creative ways to amplify, build on, and disseminate data from environmental collections and crowdsourced projects. Read more about this project [here](). 
+In this session, come test emerging technologies and digital methods to enhance the impact of the Penn's collections. Experiment with the latest project, Birds of Philadelphia, which uses high-resolution images of Audubon's plates from The Birds of America alongside crowdsourced observation data to consider the depiction of wildlife data through visual, aural, and interactive components. Participants will find creative ways to amplify, build on, and disseminate data from environmental collections and crowdsourced projects. Read more about this project [here](https://www.library.upenn.edu/blogs/rdds/audubon-action-creative-approaches-data). 
 
 This workshop was hosted as part of [Earth Week Data Jam](https://www.library.upenn.edu/about/exhibits-events/earth-week-data-jam), a week of working and playing with enviornmental data with the Center for Research Data and Digital Scholarship (RDDS) at Penn Libraries.  
 
