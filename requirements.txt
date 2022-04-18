@@ -1,5 +1,5 @@
 pandas
-subprocess
+subprocess.run
 PIL  
 pydub
 random
