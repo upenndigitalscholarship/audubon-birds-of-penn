@@ -2,7 +2,6 @@ pandas
 subprocess.run
 pillow
 pydub
-random
 numpy
 datetime
 re
