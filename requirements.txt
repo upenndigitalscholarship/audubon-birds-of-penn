@@ -8,3 +8,4 @@ requests
 python-csv
 urllib3
 IPython
+ffmpeg
