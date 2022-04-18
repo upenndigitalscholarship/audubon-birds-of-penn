@@ -1,8 +1,6 @@
 pandas
-os
 subprocess
 PIL  
-PIL
 pydub
 random
 numpy
